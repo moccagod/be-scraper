@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+requests
+google-play-scraper
+python-dotenv
+supabase
